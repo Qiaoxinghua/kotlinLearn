@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rl_cart_top" format="integer" type="id"/>
+    <item name="tv_cart_title" format="integer" type="id"/>
+    <item name="tv_cart_edit" format="integer" type="id"/>
+    <item name="elv_cart" format="integer" type="id"/>
+    <item name="rl_cart_normal" format="integer" type="id"/>
+    <item name="rl_cart_edit" format="integer" type="id"/>
+    <item name="iv_cart_all_check" format="integer" type="id"/>
+    <item name="tv_cart_group_name" format="integer" type="id"/>
+    <item name="tv" format="integer" type="id"/>
+    <item name="tv_cart_total_price" format="integer" type="id"/>
+
+
+    <item name="iv_cart_all_edit_check" format="integer" type="id"/>
+    <item name="tv_cart_collect" format="integer" type="id"/>
+    <item name="tv_cart_delete" format="integer" type="id"/>
+    <item name="ll_cart_bottom" format="integer" type="id"/>
+
+</resources>
